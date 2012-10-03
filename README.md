@@ -17,11 +17,11 @@ STEPS TO USE
  * Create project from Heroku `heroku create`
  * Check that you now have a heroku remote in your repo `git remote -v`
  * Push code to Heroku `git push heroku master`
- * Try out the site via the heroku link - click the links to see the app update.
+ * Try out the site via the heroku link - click the links to see the app update
 
 EDITING
 =======
-  * edit files locally
+  * Edit files locally
   * Commit files to your github repo `git commit -m "foo"`
   * Push files to your github repo `git push origin master`
 
