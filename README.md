@@ -12,7 +12,7 @@ STEPS TO USE
  * Fork this project - get your new fork repo url.
  * Clone your new fork locally in your machine. For example: `git clone git@github.com:triptych/yui3-heroku-example-simple.git`
  * Go into created project directory
- * Test locally by running `node simple.js`
+ * Test locally by running `node server.js`
  * Visit in browser `localhost:3000` - should see a grey page with links
  * Create project from Heroku `heroku create`
  * Check that you now have a heroku remote in your repo `git remote -v`
