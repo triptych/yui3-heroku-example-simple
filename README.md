@@ -1,7 +1,7 @@
 yui3-heroku-example-simple
 ==========================
 
-Simple example of a YUI3 app deployable to heroku with steps to use
+Simple example of a YUI3 app deployable to Heroku with steps to use
 
 
 STEPS TO USE
@@ -9,6 +9,7 @@ STEPS TO USE
  * Get [Heroku tools](https://devcenter.heroku.com/articles/quickstart) set up
  * Get Github acct set up
  * Clone this project `git clone git@github.com:triptych/yui3-heroku-example-simple.git`
+ * Go into created project directory
  * Test locally by running `node simple.js`
  * Visit in browser `localhost:3000` - should see a grey page with links
  * Create project from Heroku `heroku create`
@@ -32,3 +33,5 @@ References
  * [Deploying with Git](https://devcenter.heroku.com/articles/git)
  * [Github Help](https://help.github.com/)
  * [YUI3 App Framework](http://yuilibrary.com/yui/docs/app/)
+
+Questions? email triptych@gmail.com
