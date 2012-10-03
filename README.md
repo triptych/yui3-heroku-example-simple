@@ -34,7 +34,7 @@ FILES
 =====
  * `package.json` - tells node the app name, dependencies, and what version of engines to use.
  * `Procfile` - special file for Heroku to know how to "run" your app once it's up on the server.
- * `simple.js` - requires express, sends back simple.html, sets up the redirect so the client side Y.App can handle requests.
+ * `server.js` - requires express, sends back simple.html, sets up the redirect so the client side Y.App can handle requests.
  * `simple.html` - basic HTML to serve back - includes Y.App on client side to deal with application logic, pulls in css and logic js.
  * `css/simple.css` - location referenced from `simple.js`, used in `simple.html`
  * `javascript/simplelogic.js` - location referenced from `simple.js`, used in `simple.html`, core logic for your app.
