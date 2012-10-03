@@ -19,6 +19,16 @@ STEPS TO USE
  * Push code to Heroku `git push heroku master`
  * Try out the site via the heroku link - click the links to see the app update.
 
+EDITING
+=======
+  * edit files locally
+  * Commit files to your github repo `git commit -m "foo"`
+  * Push files to your github repo `git push origin master`
+
+DEPLOYING
+=========
+ * push to Heroku `git push heroku master`
+
 
 FILES
 =====
@@ -36,4 +46,4 @@ References
  * [Github Help](https://help.github.com/)
  * [YUI3 App Framework](http://yuilibrary.com/yui/docs/app/)
 
-Questions? email triptych@gmail.com
+Questions? email [triptych@gmail.com](mailto:triptych@gmail.com)
