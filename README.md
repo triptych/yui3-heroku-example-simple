@@ -40,7 +40,7 @@ FILES
  * `javascript/simplelogic.js` - location referenced from `simple.js`, used in `simple.html`, core logic for your app.
 
 
-References
+REFERENCES
 ==========
  * [Deploying with Git](https://devcenter.heroku.com/articles/git)
  * [Github Help](https://help.github.com/)
